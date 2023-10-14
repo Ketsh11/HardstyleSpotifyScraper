@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyScavenger", "SpotifyScavenger.csproj", "{11F11B38-1FB2-45F7-B6BD-A559013E2A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyScavenger.Tests", "..\SpotifyScavenger.Tests\SpotifyScavenger.Tests.csproj", "{3D847D91-98CD-4074-AF4B-CCA689B42CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F11B38-1FB2-45F7-B6BD-A559013E2A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F11B38-1FB2-45F7-B6BD-A559013E2A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F11B38-1FB2-45F7-B6BD-A559013E2A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F11B38-1FB2-45F7-B6BD-A559013E2A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D847D91-98CD-4074-AF4B-CCA689B42CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D847D91-98CD-4074-AF4B-CCA689B42CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D847D91-98CD-4074-AF4B-CCA689B42CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D847D91-98CD-4074-AF4B-CCA689B42CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B934C1-394F-47BD-A5BF-71EEA93B1B56}
+	EndGlobalSection
+EndGlobal
